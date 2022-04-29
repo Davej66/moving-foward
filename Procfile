@@ -1,1 +1,1 @@
-web: gunicorn freelanceMeetup.wsgi:application
+web: gunicorn moving_forward.wsgi:application
